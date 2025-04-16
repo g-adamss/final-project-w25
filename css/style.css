@@ -86,10 +86,6 @@ color: black;
     justify-content: center;
 }
 
-.product-info{
-    flex: 1;
-    max-width: 500px;
-}
 
 .images {
     display: grid;
@@ -119,6 +115,8 @@ color: black;
 }
 
 .product-info {
+    flex: 1;
+    max-width: 500px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
