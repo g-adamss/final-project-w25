@@ -152,7 +152,7 @@ color: black;
     border: none;
     border-radius: 5px;
     font-size: 1rem;
-    font: bold;
+    font-weight: bold;
     cursor: pointer;
     width: fit-content;
 }
